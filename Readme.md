@@ -1,8 +1,8 @@
 # Features 
 
 <ol>
-<li> less than 1000 >> Normal Equation is faster than Gradient Descent </li>
-<li> more than 1000 >> Gradient Descent is faster than Normal Equation </li>
+<li> less than 10000 >> Normal Equation is faster than Gradient Descent </li>
+<li> more than 10000 >> Gradient Descent is faster than Normal Equation </li>
 </ol>
 
 # Normal Equation 
@@ -17,7 +17,7 @@
 
 <ol>
 <li> Choosing Learning Rate(Alpha) </li> 
-<li> Features More Than 1000 ( Works With Big Number Of Features Very Well ) </li> 
+<li> Features More Than 10000 ( Works With Big Number Of Features Very Well ) </li> 
 <li> Works With Using Features Scaling </li> 
 </ol>
 
